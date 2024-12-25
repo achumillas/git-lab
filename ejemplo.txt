@@ -2,4 +2,4 @@
 *
 * Estas tres lineas estaban escritas inicialmente
 *
-* Este archivo es del repositorio local
+* Esta es la union del respositorio local y GitHub
