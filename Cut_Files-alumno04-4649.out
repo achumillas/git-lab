@@ -1,0 +1,196 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+
+Validando variables
+
+Argumentos validos: Usuario: alumno04, Archivo: Sample1.fastq
+
+------------------------------------------------------------------------------
+
+
+Nombrando variables
+
+Usuario: alumno04 y Archivo/os: Sample1.fastq
+
+------------------------------------------------------------------------------
+
+
+Validando archivos
+
+Existen los archivos Sample1.fastq
+
+------------------------------------------------------------------------------
+
+
+Calculando divisor proporcional
+
+El divisor es 04
+
+------------------------------------------------------------------------------
+
+
+El número de lineas es: 100000
+
+------------------------------------------------------------------------------
+
+
+El número de lineas a cortar es: 25000
+------------------------------------------------------------------------------
+
+
+El archivo ha sido cortado correctamente: Sample1.fastq.tmp
+------------------------------------------------------------------------------
+
+
+Fin del programa
+------------------------------------------------------------------------------
+
+
+Validando variables
+
+Argumentos validos: Usuario: alumno04, Archivo: Sample2.fastq
+
+------------------------------------------------------------------------------
+
+
+Nombrando variables
+
+Usuario: alumno04 y Archivo/os: Sample2.fastq
+
+------------------------------------------------------------------------------
+
+
+Validando archivos
+
+Existen los archivos Sample2.fastq
+
+------------------------------------------------------------------------------
+
+
+Calculando divisor proporcional
+
+El divisor es 04
+
+------------------------------------------------------------------------------
+
+
+El número de lineas es: 100000
+
+------------------------------------------------------------------------------
+
+
+El número de lineas a cortar es: 25000
+------------------------------------------------------------------------------
+
+
+El archivo ha sido cortado correctamente: Sample2.fastq.tmp
+------------------------------------------------------------------------------
+
+
+Fin del programa
+------------------------------------------------------------------------------
+
+
+Validando variables
+
+Argumentos validos: Usuario: alumno04, Archivo: Sample3.fastq
+
+------------------------------------------------------------------------------
+
+
+Nombrando variables
+
+Usuario: alumno04 y Archivo/os: Sample3.fastq
+
+------------------------------------------------------------------------------
+
+
+Validando archivos
+
+Existen los archivos Sample3.fastq
+
+------------------------------------------------------------------------------
+
+
+Calculando divisor proporcional
+
+El divisor es 04
+
+------------------------------------------------------------------------------
+
+
+El número de lineas es: 100000
+
+------------------------------------------------------------------------------
+
+
+El número de lineas a cortar es: 25000
+------------------------------------------------------------------------------
+
+
+El archivo ha sido cortado correctamente: Sample3.fastq.tmp
+------------------------------------------------------------------------------
+
+
+Fin del programa
+------------------------------------------------------------------------------
+
+
+Validando variables
+
+Argumentos validos: Usuario: alumno04, Archivo: Sample4.fastq
+
+------------------------------------------------------------------------------
+
+
+Nombrando variables
+
+Usuario: alumno04 y Archivo/os: Sample4.fastq
+
+------------------------------------------------------------------------------
+
+
+Validando archivos
+
+Existen los archivos Sample4.fastq
+
+------------------------------------------------------------------------------
+
+
+Calculando divisor proporcional
+
+El divisor es 04
+
+------------------------------------------------------------------------------
+
+
+El número de lineas es: 100000
+
+------------------------------------------------------------------------------
+
+
+El número de lineas a cortar es: 25000
+------------------------------------------------------------------------------
+
+
+El archivo ha sido cortado correctamente: Sample4.fastq.tmp
+------------------------------------------------------------------------------
+
+
+Fin del programa
+------------------------------------------------------------------------------
+
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+
+Archivos cortados
+
+-----------------------------------------------------------------
+
