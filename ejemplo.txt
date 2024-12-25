@@ -1,3 +1,5 @@
 * Este es un fichero de ejemplo
 *
 * Estas tres lineas estaban escritas inicialmente
+*
+* Este archivo es del repositorio local
